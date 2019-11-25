@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Memory</string>
+    <string name="field0"></string>
+    <string name="field1"></string>
+    <string name="field2"></string>
+    <string name="field3"></string>
+    <string name="field4"></string>
+    <string name="field5"></string>
+    <string name="field6"></string>
+    <string name="field7"></string>
+    <string name="field8"></string>
+    <string name="field9"></string>
+    <string name="field10"></string>
+    <string name="field11"></string>
+    <string name="field12"></string>
+    <string name="field13"></string>
+    <string name="field14"></string>
+    <string name="field15"></string>
+    <string name="toast">Win</string>
+    <string name="attempts">Number of attempts:</string>
+    <string name="matched">Matched pairs:</string>
+    <string name="number1">0</string>
+    <string name="number2">0</string>
+    <string name="game">New Game</string>
+    <string name="total_time"></string>
+
+
+</resources>
